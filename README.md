@@ -1,2 +1,3 @@
 # MAUI-Calculator
-Calculator desing in .Net MAUI 
+
+Calculator desing in .Net MAUI for students 
